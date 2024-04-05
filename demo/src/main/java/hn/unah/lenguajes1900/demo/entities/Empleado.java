@@ -37,5 +37,6 @@ public class Empleado {
     @JsonIgnore
     private List<HistoricoPagos> HistoricoPagos;
 
-    //Hola mundo
+    //Hola mundo y todos
+    
 }
