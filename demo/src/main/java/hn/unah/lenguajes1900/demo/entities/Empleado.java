@@ -36,4 +36,6 @@ public class Empleado {
     @OneToMany(mappedBy = "empleado")
     @JsonIgnore
     private List<HistoricoPagos> HistoricoPagos;
+
+    //Hola mundo
 }
